@@ -1,0 +1,12 @@
+# Direct dependencies for web scraping projects
+# Transitive dependencies will be automatically installed by pip
+
+# Web scraping
+selenium==4.38.0
+webdriver-manager==4.0.2
+
+# Data processing
+pandas==2.3.3
+
+# HTTP requests
+requests==2.32.5
