@@ -330,7 +330,48 @@ Relative URLs are properly resolved using `urllib.parse.urljoin()` to handle edg
 
 ## License
 
-[Add your license information here]
+This project is licensed under a custom license that permits free use for personal, educational and research purposes.
+
+### Permissions
+
+- **Personal Use**: Free to use for personal projects
+- **Educational Use**: Free to use in academic settings, courses and educational materials
+- **Research Use**: Free to use for research projects and publications
+- **Modification**: Free to modify the code to suit your needs
+- **Distribution**: Free to share and redistribute the code
+
+### Requirements
+
+- **Attribution Required**: You must provide attribution to the original author when using, modifying or distributing this code
+- **Commercial Use**: Commercial use requires prior written permission from the author
+
+### Attribution Example
+
+When using this code in your project, please include attribution in one of the following formats:
+
+**In code comments:**
+```python
+# O*NET Database Scraper
+# Original author: https://github.com/yassershahofficial
+# Source: https://github.com/yassershahofficial/JobGenie-Journey
+```
+
+**In documentation:**
+```markdown
+This project uses the O*NET Database Scraper by https://github.com/yassershahofficial.
+Original source: https://github.com/yassershahofficial/JobGenie-Journey
+```
+
+**In publications:**
+```
+This research utilized the O*NET Database Scraper 
+(Author: https://github.com/yassershahofficial, 
+Source: https://github.com/yassershahofficial/JobGenie-Journey)
+```
+
+### Commercial Use
+
+For commercial use, licensing, or integration into commercial products, please contact the author to obtain written permission and discuss licensing terms.
 
 ---
 
